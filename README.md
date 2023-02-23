@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**AgnieszkaSzostak/AgnieszkaSzostak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <h1 align="center">Howdy! I'm Agnieszka  :wave:</h1>
+---
+ <p align="justify">I am striving to improve my programming skills. Looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. Currently, I am at the end of an individual mentoring program in web development under the guidance of <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+##  <h2>🔧Technologies & Tools:</h2>
+<div  align="center">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack" /></code>
+</div>
+
+---
+
+# <h3>🗂️ Projects:</h3>
+* [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-portfolio) (*under construction)
+
+---
+
+### <h3>📫 Reach me at:</h3>
+<p>
+    <a href="https://www.linkedin.com/in/agnieszkaszostak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnieszkaszostak" height="30" width="40" /></a>
+</p>
+
+
