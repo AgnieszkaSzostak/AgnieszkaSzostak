@@ -15,12 +15,12 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack" /></code>
 </div>
 
----
+
 
 # <h3>🗂️ Projects:</h3>
 * [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-portfolio) (*under construction)
 
----
+
 
 ### <h3>📫 Reach me at:</h3>
 <p>
