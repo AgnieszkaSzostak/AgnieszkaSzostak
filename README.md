@@ -18,7 +18,7 @@
 
 
 # <h3>🗂️ Projects:</h3>
-* [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-portfolio) (*under construction)
+* [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-Portfolio-App) (*under construction)
 
 
 
