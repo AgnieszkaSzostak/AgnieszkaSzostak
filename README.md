@@ -18,7 +18,11 @@
 
 
 # <h3>🗂️ Projects:</h3>
-* [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-Portfolio-App) (*under construction)
+* [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-Portfolio-App)
+* [Weather Wizzards Blog](https://github.com/AgnieszkaSzostak/Weather-Wizards-Blog)
+* [Task Manager](https://github.com/AgnieszkaSzostak/React-TaskManager)
+* [Kanban Board](https://github.com/AgnieszkaSzostak/Kanban-board)
+* [Meeting Calendar](https://github.com/AgnieszkaSzostak/MeetingCalendar-App)
 
 
 
