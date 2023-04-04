@@ -4,7 +4,7 @@
 ## About me:
  <p align="justify">I am striving to improve my programming skills. Looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. Currently, I am at the end of an individual mentoring program in web development under the guidance of <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 
-
+<img src="./assets/banner.png" alt="banner">
 ---
 ##  <h2>🔧Technologies & Tools:</h2>
 
