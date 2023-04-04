@@ -4,7 +4,6 @@
     <h1>About me</h1>
     <p>
 	As the English poet John Donne wrote, <i>"No man is an island"</i> - I believe that collaboration and support from others are crucial to success. 
-	<br>
 	Striving to improve my programming skills. I'm now looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. I have recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 </div>
 
@@ -35,14 +34,14 @@
 [Meeting Calendar](https://github.com/AgnieszkaSzostak/MeetingCalendar-App)
 </div>
 
-<div style="text-align: center">
-	<h4 style="font-size: 20px; text-transform: uppercase">📫 Don't be shy, say hi!</h4>
+<div align="center">
+	<h4 >📫 Don't be shy, say hi!</h4>
 <a href="https://www.linkedin.com/in/agnieszkaszostak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnieszkaszostak" height="30" width="40" /></a> 
 
 <br>
 
 <a href="mailto:agnieszkaszostak94@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" height="30" width="40" alt="email"/></a>
-</div>
+
 </div>
 
 
