@@ -1,14 +1,14 @@
 
 <img src="./assets/banner.png" alt="banner">
-<div style="text-align: right">
-    <h1 style="font-size: 20px; text-transform: uppercase">About me</h1>
+<div align="right">
+    <h1>About me</h1>
     <p>
 	As the English poet John Donne wrote, <i>"No man is an island"</i> - I believe that collaboration and support from others are crucial to success. 
 	<br>
 	Striving to improve my programming skills. I'm now looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. I have recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 </div>
 
-<div style="text-align: right">
+<div align="right">
 	<h2 style="font-size: 20px; text-transform: uppercase">🔧Technologies & Tools</h2>
 	<div  align="right">
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
