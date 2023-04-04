@@ -1,6 +1,6 @@
 
 <img src="./assets/banner.png" alt="banner">
-<div align="right">
+<div align="center">
     <h1>About me</h1>
     <p>
 	As the English poet John Donne wrote, <i>"No man is an island"</i> - I believe that collaboration and support from others are crucial to success. 
@@ -8,9 +8,9 @@
 	Striving to improve my programming skills. I'm now looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. I have recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 </div>
 
-<div align="right">
-	<h2 style="font-size: 20px; text-transform: uppercase">🔧Technologies & Tools</h2>
-	<div  align="right">
+<div align="center">
+	<h2 >🔧Technologies & Tools</h2>
+	<div  >
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
@@ -21,8 +21,8 @@
 </div>
 
 
-<div style="text-align: right">
-	<h3 style="font-size: 20px; text-transform: uppercase">🗂️ Projects</h3>
+<div align="center">
+	<h3>🗂️ Projects</h3>
 
  [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-Portfolio-App)
 
@@ -35,7 +35,7 @@
 [Meeting Calendar](https://github.com/AgnieszkaSzostak/MeetingCalendar-App)
 </div>
 
-<div style="text-align: right">
+<div style="text-align: center">
 	<h4 style="font-size: 20px; text-transform: uppercase">📫 Don't be shy, say hi!</h4>
 <a href="https://www.linkedin.com/in/agnieszkaszostak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnieszkaszostak" height="30" width="40" /></a> 
 
