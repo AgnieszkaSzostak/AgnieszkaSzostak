@@ -8,7 +8,6 @@
 	Striving to improve my programming skills. I'm now looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. I have recently completed an individual mentoring program in web development under the guidance of  <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 </div>
 
----
 <div style="text-align: right">
 	<h2 style="font-size: 20px; text-transform: uppercase">🔧Technologies & Tools</h2>
 	<div  align="right">
@@ -20,6 +19,7 @@
 		<code><img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png" alt="webpack" title="webpack" /></code>
 	</div>
 </div>
+
 
 <div style="text-align: right">
 	<h3 style="font-size: 20px; text-transform: uppercase">🗂️ Projects</h3>
