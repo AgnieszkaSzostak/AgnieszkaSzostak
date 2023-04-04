@@ -1,11 +1,18 @@
 
-# <h1 align="center">Howdy! I'm Agnieszka  :wave:</h1>
+# <h1 align="center">Hello there! I'm Agnieszka  :wave:</h1>
+<p>You have finally discovered my Github profile</p>
+ 
+ <img src="./assets/banner.png" alt="banner">
 ---
+## About me:
  <p align="justify">I am striving to improve my programming skills. Looking for a job as a <strong>Junior Frontend Developer</strong> to spread my wings in professional coding. Currently, I am at the end of an individual mentoring program in web development under the guidance of <a href="https://www.devmentor.pl">Mentor - devmentor.pl</a>.</p>
 
 
 ---
 ##  <h2>🔧Technologies & Tools:</h2>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnieszkaszostak)](https://github.com/agnieszkaszostak/github-readme-stats) -->
+
 <div  align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS" /></code>
@@ -23,8 +30,10 @@
 
 
 ### <h3>📫 Reach me at:</h3>
-<p>
-    <a href="https://www.linkedin.com/in/agnieszkaszostak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnieszkaszostak" height="30" width="40" /></a>
-</p>
+
+<a href="https://www.linkedin.com/in/agnieszkaszostak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agnieszkaszostak" height="30" width="40" /></a>
+
+<a href="mailto:agnieszkaszostak94@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" height="30" width="40" alt="email"/></a>
+
 
 
