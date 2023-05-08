@@ -23,6 +23,8 @@
 <div align="center">
 	<h3>🗂️ Projects</h3>
 
+ [Login App](https://github.com/AgnieszkaSzostak/login-app-task) - It was my recrutiment task, that I decided to develop. It's still under construction, not really resposive yet.   
+
  [Currency Portfolio](https://github.com/AgnieszkaSzostak/Currency-Portfolio-App)
 
  [Weather Wizzards Blog](https://github.com/AgnieszkaSzostak/Weather-Wizards-Blog)
